@@ -1,0 +1,2 @@
+[0414/012857.647:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Le canal de communication a été fermé. (0x6D)
+[0414/012857.649:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Accès refusé. (0x5)
